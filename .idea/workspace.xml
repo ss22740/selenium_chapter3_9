@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c2e6a5-2825-4d33-acb6-7c004f60eb6d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/chapter3_9-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java" afterPath="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java" />
     </list>
     <ignored path="chapter3_1.iws" />
@@ -31,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1130,7 +1128,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
