@@ -28,4 +28,4 @@ public class Google {
         wait.until(ExpectedConditions.presenceOfElementLocated(By.id("resultStats")));
         return new GoogleSearchPage(driver);
     }
-}
+} 
