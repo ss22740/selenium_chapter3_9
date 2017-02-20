@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1128,7 +1128,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
