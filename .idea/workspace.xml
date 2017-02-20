@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c2e6a5-2825-4d33-acb6-7c004f60eb6d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/chapter3_9-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java" afterPath="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/GoogleSearchPage.java" afterPath="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/GoogleSearchPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/WrongPageException.java" afterPath="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/WrongPageException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/packt/selenium/chap3_9/SearchGoogleTest.java" afterPath="$PROJECT_DIR$/src/test/java/packt/selenium/chap3_9/SearchGoogleTest.java" />
     </list>
     <ignored path="chapter3_1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Google.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Google.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+              <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchGoogleTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SearchGoogleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/packt/selenium/chap3_9/SearchGoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -103,10 +101,10 @@
         <option value="$PROJECT_DIR$/src/test/java/packt/selenium/chap3_9/WebDriverDocumentation_04Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/packt/selenium/chap3_9/SeleniumHQ.java" />
         <option value="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/WrongPageException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java" />
         <option value="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/GoogleSearchPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/packt/selenium/chap3_9/SearchGoogleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java" />
       </list>
     </option>
   </component>
@@ -1105,16 +1103,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/GoogleSearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1136,6 +1124,16 @@
         <state relative-caret-position="210">
           <caret line="23" column="125" lean-forward="false" selection-start-line="23" selection-start-column="125" selection-end-line="23" selection-end-column="125" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/packt/selenium/chap3_9/pageobjects/Google.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
